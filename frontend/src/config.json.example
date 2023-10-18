@@ -1,15 +1,15 @@
 {
   "system": {
-    "name": "WaSap",
-    "url": "https://wasap.com.br",
+    "name": "Cloudchat",
+    "url": "https://semplicebusiness.com.br",
     "color": {
       "lightTheme": {
         "palette": {
-          "primary": "#6B62FE",
-          "secondary": "#5a01a9"
+          "primary": "#8cb6fd",
+          "secondary": "#3d64c0"
         },
         "toolbar": {
-          "background-color": "#9456ff"
+          "background-color": "#4d7df0"
         },
         "menuItens": "#ffffff",
         "sub": "#ffffff",
@@ -25,7 +25,7 @@
             "paper": "#181d22"
           },
           "text": {
-            "primary": "#e2d4ff",
+            "primary": "#2a4482",
             "secondary": "#ffffff"
           }
         },
