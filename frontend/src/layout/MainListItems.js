@@ -179,11 +179,6 @@ const MainListItems = (props) => {
                             primary={i18n.t("mainDrawer.listItems.api")}
                             icon={<Code />}
                         />
-#                        <ListItemLink
-#                            href="https://docs.meuhub.com.br/categoria/wasap/"
-#                            primary={i18n.t("mainDrawer.listItems.apidocs")}
-#                            icon={<MenuBook />}
-#                        />
                         <ListItemLink
                             to="/apikey"
                             primary={i18n.t("mainDrawer.listItems.apikey")}
