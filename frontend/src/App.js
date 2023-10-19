@@ -30,9 +30,9 @@ const App = () => {
                 },
             },
             palette: {
-                primary: { main: system.color.lightTheme.palette.primary || "#6B62FE" },
+                primary: { main: system.color.lightTheme.palette.primary || "#3d64c0" },
                 secondary: { main: system.color.lightTheme.palette.secondary || "#F50057" },
-                toolbar: { main: system.color.lightTheme.toolbar.background || "#6B62FE" },
+                toolbar: { main: system.color.lightTheme.toolbar.background || "#3d64c0" },
                 menuItens: { main: system.color.lightTheme.menuItens || "#ffffff" },
                 sub: { main: system.color.lightTheme.sub || "#ffffff" },
                 toolbarIcon: { main: system.color.lightTheme.toolbarIcon || "#ffffff" },
